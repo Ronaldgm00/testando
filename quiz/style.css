@@ -1,0 +1,206 @@
+*{
+    font-family: Arial, sans-serif;
+    color: #f8ffd3;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:green;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 30px;
+    padding: 10px;
+    border: 5px solid #008000;
+    border-radius: 5px;
+    background-color:#f8ffd3;
+}
+
+h2{
+    color: #513615;
+    font-size: 24px;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.5;
+    color: #513615;
+}
+
+strong{
+    color: #513615;
+}
+
+abbr{
+    text-decoration: none;
+    color: #513615;
+}
+
+input[type="text"]{
+    color: #513615;
+}
+
+label{
+    color: #513615;
+}
+
+footer{
+    background-color: #008000;
+    color: #f8ffd3;
+    text-align: center;
+    padding: 1px;
+    bottom: 0;
+    width: 100%;
+}
+
+img{
+    width:10em;
+    border:5px solid #008000;
+    border-radius: 5px;
+}
+
+input[type="text"]{
+    color-background: #f8ffd3;
+    color: #513615;
+    border: 2px solid #008000;
+    padding: 5px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+input[type="email"]{
+    color-background: #f8ffd3;
+    color: #513615;
+    border: 2px solid #008000;
+    padding: 5px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+input[type="password"]{
+    color-background: #f8ffd3;
+    color: #513615;
+    border: 2px solid #008000;
+    padding: 5px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+input[type="date"]{
+    color-background: #f8ffd3;
+    color: #513615;
+    border: 2px solid #008000;
+    padding: 5px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+select{
+    color-background: #008000;
+    color: #008000;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+option{
+    color: #f8ffd3;
+    background-color: #008000;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    color: #513615;
+}
+
+th{
+    background-color: #008000;
+    color: #f8ffd3;
+    padding: 10px;
+    border: 2px solid #513615;
+}
+
+td{
+    padding: 10px;
+    border: 2px solid #513615;
+    text-align: center;
+    color: #008000;
+}
+
+details{
+    background-color: #f8ffd3;
+    border: 2px solid #008000;
+    padding: 10px;
+    border-radius: 5px;
+    color:#513615;
+}
+
+summary{
+    font-weight: bold;
+    color: #008000;
+    cursor: pointer;    
+}
+
+fieldset{
+    border: 2px solid #008000;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f8ffd3;
+}
+
+legend{
+    font-weight: bold;
+    color: #008000;
+    padding: 5px;
+    background-color: #f8ffd3;
+    border-radius: 5px;
+}
+
+textarea{
+    width: 99%;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid #008000;
+    border-radius: 5px;
+    color: #f8ffd3;
+}
+
+button{
+    background-color: #f8ffd3;
+    color: #008000;
+    padding: 10px 20px;
+    border: 2px solid #008000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+li{
+    color:#008000;
+    margin:2em;
+    padding:2px;
+}
+
+input[type="radio"]{
+    color-background: #f8ffd3;
+    color: #513615;
+    border: 2px solid #008000;
+    padding: 5px;
+    border-radius: 5px;
+    accent-color: #008000;
+}
+
+input[type="checkbox"]{
+    color-background: #f8ffd3;
+    color: #513615;
+    border: 2px solid #008000;
+    padding: 5px;
+    border-radius: 5px;
+    accent-color: #008000;
+}
+
+figcaption{
+    color: #513615;
+}
